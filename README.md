@@ -24,7 +24,7 @@ Healthcare Website with 5 machine learning algorithm
 2. <h3>Working of Web page   </h3>
  <img src="/OneCare - Homepage - Google Chrome 2021-04-26 15-11-54 (1).gif" width="700" height="500" />
  
-Markup :  - - - -
+- - - -
 
  * To run this project on your local system 
-   * run main.py file ==> command : python main.py
+   * run main.py file ==> ⌘ python main.py
