@@ -28,3 +28,5 @@ Healthcare Website with 5 machine learning algorithm
 
  * To run this project on your local system 
    * run main.py file ==> ⌘ python main.py
+
+<kbd>⌘F</kbd>
