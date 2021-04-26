@@ -5,7 +5,7 @@ Healthcare Website with 5 machine learning algorithm
 3. This appilcation  Predict many Disease Symptoms like :
 
 | Dengue | Hypertension1 | Cervical_spondylosis | Drug_Reaction | Pneumonia |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | 
 | Heart_Attack | Malaria | Migraine | Paralysis | Alcoholic_hepatitis |
 
  <img src="/OneCare - Homepage - Google Chrome 2021-04-26 15-41-08.gif" width="700" height="500" />
