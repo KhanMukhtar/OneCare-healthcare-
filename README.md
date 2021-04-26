@@ -28,6 +28,6 @@ Healthcare Website with 5 machine learning algorithm
 
  * To run this project on your local system 
    * Run requirements.txt file<kbd>⌘ pip install -r requirements.txt </kbd>
-   * run main.py file ==> command <kbd>⌘python main.py</kbd>
+   * run main.py file ==> command <kbd>⌘ python main.py</kbd>
 
 
