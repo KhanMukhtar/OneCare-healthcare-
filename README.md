@@ -17,7 +17,7 @@ Healthcare Website with 5 machine learning algorithm
 * Heart Disease
 
 ###  <h3>All the ML code is given in above folder with dataset,model,ipynb file.</h3>
-
+- - - -
 1. <h3>Web Page view</h3>
 
  <img src="/OneCare - Homepage - Google Chrome 2021-04-26 15-41-08.gif" width="700" height="500" />
@@ -27,6 +27,7 @@ Healthcare Website with 5 machine learning algorithm
 - - - -
 
  * To run this project on your local system 
-   * run main.py file ==> ⌘ python main.py
+   * Run requirements.txt file<kbd>⌘ pip install -r requirements.txt </kbd>
+   * run main.py file ==> command <kbd>⌘python main.py</kbd>
 
-<kbd>⌘F</kbd>
+
