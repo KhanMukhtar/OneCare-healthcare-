@@ -28,7 +28,9 @@ Healthcare Website with 5 machine learning algorithm
 
  * To run this project on your local system 
    * Run requirements.txt file<kbd>⌘ pip install -r requirements.txt </kbd>
-   * run main.py file ==> command <kbd>⌘ python main.py</kbd>
+   * run app.py file ==> command <kbd>⌘ python app.py</kbd>
    * Navigate to URL "http://localhost:5000"
+
+* To view deployed app : "https://onecare12.herokuapp.com/"
 
 
